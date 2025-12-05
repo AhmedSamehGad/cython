@@ -14,7 +14,7 @@
             "-march=native"
         ],
         "include_dirs": [
-            "C:\\Users\\amto0\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\numpy\\_core\\include"
+            "C:\\Users\\amto0\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_core\\include"
         ],
         "language": "c",
         "name": "src.secure_tools",
